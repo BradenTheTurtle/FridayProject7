@@ -19,3 +19,4 @@ print(f"This morning, I dropped a box of {large_objects_plural} on my {body_part
 print(f"Then, at lunch, I went to {restaurant} for their delicious {food_1},")  # Story line with restaurant and first food
 print(f"But the waiter brought me {food_2}, which I was not hungry for.")  # Story line with the second food
 print(f"Finally, on my way home, I was cut off by a van with a large {large_object} strapped to the roof.")  # Story line with large object
+
